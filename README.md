@@ -1,2 +1,2 @@
 # git
-teste para o processo de git no terminal do linux.
+teste para o processo de git no terminal do Linux.
